@@ -113,7 +113,7 @@ button {
 
 @media (min-width: 375px) {
   body {
-    background-image: url(/images/pattern-background-desktop.svg);
+    background-image: url(images/pattern-background-desktop.svg);
     background-repeat: no-repeat;
     background-size: 100%;
   }
